@@ -3,7 +3,7 @@ object frmPrincipal: TfrmPrincipal
   Top = 0
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
-  Caption = 'Agenda Telef'#244'nica 1.0'
+  Caption = 'Agenda Telef'#244'nica 1.0.012023'
   ClientHeight = 211
   ClientWidth = 656
   Color = clBtnFace
@@ -56,9 +56,6 @@ object frmPrincipal: TfrmPrincipal
     DataSource = dtsAgenda
     Align = alBottom
     TabOrder = 1
-    ExplicitLeft = 248
-    ExplicitTop = 168
-    ExplicitWidth = 240
   end
   object dtsAgenda: TDataSource
     DataSet = DM.qryAgenda
