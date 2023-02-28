@@ -2,11 +2,11 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2022/09/07 09:13:30.000.139,=D:\ProjetosDelphi\Unit1.pas</Transaction>
-    <Transaction>2022/09/07 09:37:59.000.655,D:\ProjetosDelphi\Unit1.dfm=D:\ProjetosDelphi\AgendaTelefone\src\Principal.dfm</Transaction>
-    <Transaction>2022/09/07 09:37:59.000.654,D:\ProjetosDelphi\Unit1.pas=D:\ProjetosDelphi\AgendaTelefone\src\Principal.pas</Transaction>
-    <Transaction>2022/09/07 09:38:27.000.114,D:\ProjetosDelphi\Project1.dproj=D:\ProjetosDelphi\AgendaTelefone\src\AgendaTelefonica.dproj</Transaction>
+    <Transaction>2022/09/07 09:37:59.000.654,D:\ProjetosDelphi\AgendaTelefone\src\Principal.pas=D:\ProjetosDelphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/07 09:37:59.000.655,D:\ProjetosDelphi\AgendaTelefone\src\Principal.dfm=D:\ProjetosDelphi\Unit1.dfm</Transaction>
+    <Transaction>2022/09/07 09:38:27.000.114,D:\ProjetosDelphi\AgendaTelefone\src\AgendaTelefonica.dproj=D:\ProjetosDelphi\Project1.dproj</Transaction>
     <Transaction>2022/09/07 09:58:12.000.851,=D:\ProjetosDelphi\AgendaTelefone\src\Unit1.pas</Transaction>
-    <Transaction>2022/09/07 09:59:34.000.370,D:\ProjetosDelphi\AgendaTelefone\src\Unit1.dfm=D:\ProjetosDelphi\AgendaTelefone\src\DataModule.dfm</Transaction>
-    <Transaction>2022/09/07 09:59:34.000.370,D:\ProjetosDelphi\AgendaTelefone\src\Unit1.pas=D:\ProjetosDelphi\AgendaTelefone\src\DataModule.pas</Transaction>
+    <Transaction>2022/09/07 09:59:34.000.370,D:\ProjetosDelphi\AgendaTelefone\src\DataModule.pas=D:\ProjetosDelphi\AgendaTelefone\src\Unit1.pas</Transaction>
+    <Transaction>2022/09/07 09:59:34.000.370,D:\ProjetosDelphi\AgendaTelefone\src\DataModule.dfm=D:\ProjetosDelphi\AgendaTelefone\src\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>
